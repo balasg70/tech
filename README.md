@@ -1,4 +1,4 @@
-# tech
+# Documentation of the Bitbucket for admins
 
 Executing commands:
 

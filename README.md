@@ -1,5 +1,13 @@
 # Documentation of the Bitbucket for admins
 
+Dependencies
+kopano-rules depends on a few Python libraries:
+
+python3-kopano
+tabulate
+binascii
+
+
 Executing commands:
 
 To get respository in projects owned by you and assigned to you

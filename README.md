@@ -22,7 +22,7 @@ python bitbuckettool.py -u username -p password my_perm:project_name
 
 To get respository in projects owned by somebody else
 
-python bitbuckettool.py -u username -p password -o someone_else my_perm
+python bitbuckettool.py -u username -p password -o owner my_perm
 
 To list permissions for users
 

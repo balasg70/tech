@@ -4,7 +4,9 @@ Dependencies
 kopano-rules depends on a few Python libraries:
 
 python3-kopano
+
 tabulate
+
 binascii
 
 
